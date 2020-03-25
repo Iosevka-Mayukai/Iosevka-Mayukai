@@ -26,6 +26,10 @@ Open your text editor font settings, for example in VS Code / VS Codium Text Edi
 
 ![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel3.png)
 
+Demo Iosevka Mayukai when applied to code.
+
+![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code_iosevkamayukai.png)
+
 ## Thank You
 
 Thank you for Belleve Invis, their developers, and contributors that making Iosevka Font happens. Don't forget check and download original Iosevka Font from here [https://github.com/be5invis/Iosevka](https://github.com/be5invis/Iosevka).
