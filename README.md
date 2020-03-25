@@ -12,7 +12,7 @@ Some screenshot for speciment result can see below.
 
 ## Installation
 
-Quit your editor/program. Download or Git clone this repository. Unzip and open the folder **/iosevka-mayukai**.
+Quit your editor/program. Download this repository. Unzip and open the folder **/iosevka-mayukai**.
 
 * **Linux** : Copy the TTF files to your fonts directory, usually in your Home directory `~/.local/share/fonts/` . And then run Run `sudo fc-cache -f -v`. For refreshing Font Cache in your sistem.
 * **[Instructions for macOS](http://support.apple.com/kb/HT2509)**
