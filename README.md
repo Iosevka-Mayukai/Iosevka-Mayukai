@@ -25,3 +25,7 @@ Quit your editor/program. Download this repository from Github or using this [li
 Open your text editor font settings, for example in VS Code / VS Codium Text Editor. Go to Font Settings, and write **"Iosevka Mayukai"** in Font Selection. Save and reload your code editor. If it doesn't work, then try write **Iosevka-Mayukai** in Font selection settings.
 
 ![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel3.png)
+
+## Thank You
+
+Thank you for Belleve Invis, their developers, and contributors that making Iosevka Font happens. Don't forget check and download original Iosevka Font from here [https://github.com/be5invis/Iosevka](https://github.com/be5invis/Iosevka).
