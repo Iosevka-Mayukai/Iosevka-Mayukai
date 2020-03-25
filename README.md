@@ -6,6 +6,10 @@ This is the .ttf files from the result of custom build from original Iosevka Fon
 
 Some screenshot for speciment result can see below.
 
+![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel1.png)
+
+![Gambar Demo 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel2.png)
+
 ## Installation
 
 Quit your editor/program. Clone or download this repository. Unzip and open the folder **/iosevka-mayukai**.
