@@ -26,7 +26,7 @@ Open your text editor font settings, for example in VS Code / VS Codium Text Edi
 
 ![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel3.png)
 
-Demo Iosevka Mayukai when applied to code.
+Demo Iosevka Mayukai when applied to code, using Iosevka Mayukai Semibold and Iosevka Mayukai Medium, or using weight 500 and weight 600.
 
 ![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code_iosevkamayukai.png)
 
