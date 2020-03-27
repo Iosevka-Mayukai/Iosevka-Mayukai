@@ -16,7 +16,7 @@ Some screenshot for sample speciment can see below.
 
 ## Installation
 
-Quit your editor/program. Download the fonts from [Github Release Page](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases) in this repository or using this [GDrive Link](https://drive.google.com/file/d/1lVqltNikcHnHyw0E5fFEX503Y4GU3f--/view?usp=sharing). Unzip and open the folder **/iosevka-mayukai**.
+Quit your editor/program. Download the fonts from [Github Release Page](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases) in this repository or using this [GDrive Link](https://drive.google.com/drive/folders/1YLOR3SlDVXS1dtb0FD6ljVuciDPYHTjj?usp=sharing). Unzip and open the folder **/iosevka-mayukai**.
 
 * **Linux** : Copy the TTF files to your fonts directory, usually in your Home directory `~/.local/share/fonts/` . And then run Run `sudo fc-cache -f -v`. For refreshing Font Cache in your sistem.
 * **[Instructions for macOS](http://support.apple.com/kb/HT2509)**
