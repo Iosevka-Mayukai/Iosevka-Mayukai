@@ -2,6 +2,10 @@
 
 This repository contains .ttf files from the result of custom build original Iosevka Font. All weight variant is available, from Regular, Italic, weight 100 until weight 900, and full bold. This custom build also support all font ligature from original Iosevka Build. We're using Iosevka SS09, Iosevka SS14, and Iosevka SS04 variant to make this Iosevka Custom Build, named Iosevka Mayukai.
 
+## Font Variants
+
+Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai Term is font variant without ligature, suitable for Terminal , CLI, Command Promp app.
+
 ## Font Sample Specimen
 
 Some screenshot for sample speciment can see below.
