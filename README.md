@@ -12,7 +12,10 @@ Some screenshot for sample speciment can see below.
 
 ![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel1.png)
 
-![Gambar Demo 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel2.png)
+
+![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel2.png)
+
+![Gambar Demo 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel3.png)
 
 ## Download and Installation
 
@@ -28,7 +31,7 @@ Quit your editor/program. Download the fonts from [Github Release Page](https://
 
 Open your text editor font settings, for example in VS Code / VS Codium Text Editor. Go to Font Settings, and write **"Iosevka Mayukai"** in Font Selection. Save and reload your code editor. If it doesn't work, then try write **Iosevka-Mayukai** in Font selection settings.
 
-![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel3.png)
+![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel4.png)
 
 Demo Iosevka Mayukai when applied to code, using Iosevka Mayukai Semibold and Iosevka Mayukai Medium, or using weight 500 and weight 600.
 
