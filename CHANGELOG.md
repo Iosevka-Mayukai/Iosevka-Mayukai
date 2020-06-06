@@ -8,6 +8,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [1.1.0 - 07062020]
+
+- Build font based on Iosevka Font 3.1.1 release.
+- Fix in ```1``` number letter glyph.
+- Add new letter variant with ```l``` z-styled and i z-styled .
+- Adjustment letter ```g``` to use Jetbrains Mono Style.
+- Check more changelog about base Iosevka Font 3.1.1 [release note](https://github.com/be5invis/Iosevka/releases/tag/v3.1.1).
+
 ## [1.0.0 - 20052020]
 
 - Build font based on Iosevka Font 3.0.0 Final Release.
