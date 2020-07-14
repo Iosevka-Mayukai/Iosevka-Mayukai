@@ -8,6 +8,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [1.3.0 - 14072020]
+
+- Add toothless variant of letter ```b``` and ```d```.
+- New style on number ```4``` , the horizontal bar does not overflow the vertical bar.
+- Adjust style on letter ```B``` , with more asymmetric B curve to differentiate with number ```8```.
+- Adding all ligature pack.
+- Fix in ```1``` number letter glyph.
+- Add new letter variant with ```l``` z-styled and i z-styled .
+- Adjustment letter ```g``` to use Jetbrains Mono Style.
+- Built with font based on Iosevka Font 3.3.0 release. Check more changelog about base Iosevka Font 3.3.0 [release note](https://github.com/be5invis/Iosevka/releases/tag/v3.3.0).
+
 ## [1.2.2 - 29062020]
 
 - New style on number ```4``` , the horizontal bar does not overflow the vertical bar.
