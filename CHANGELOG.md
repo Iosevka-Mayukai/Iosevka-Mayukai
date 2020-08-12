@@ -8,6 +8,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [1.4.1]
+
+- Add earless variants for letter ```g```, ```p``` and ```q```.
+- Splitting build files with TTF, Term without ligature, and web font package.
+- Add toothless variant of letter ```b``` and ```d```.
+- Adding all ligature pack.
+- Built with font based on Iosevka Font 3.4.1 release. Check more changelog about base Iosevka Font 3.4.1 [release note](https://github.com/be5invis/Iosevka/releases/tag/v3.4.1).
+
 ## [1.3.1 - 24072020]
 
 - Add letter ```y``` with straight upper and a tail turns leftward.
