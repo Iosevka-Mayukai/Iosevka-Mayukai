@@ -8,7 +8,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
-## [1.4.1]
+
+## [1.4.3 - 20082020]
+
+- Add earless variants for letter ```g```, ```p``` and ```q```.
+- Splitting build files with TTF, Term without ligature, and web font package.
+- Add toothless variant of letter ```b``` and ```d```.
+- Adding all ligature pack.
+- Built with font based on Iosevka Font 3.4.3 release. Check more changelog about base Iosevka Font 3.4.3 [release note](https://github.com/be5invis/Iosevka/releases/tag/v3.4.3).
+
+
+## [1.4.1 - 14082020]
 
 - Add earless variants for letter ```g```, ```p``` and ```q```.
 - Splitting build files with TTF, Term without ligature, and web font package.
