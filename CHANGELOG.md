@@ -8,12 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
-## [1.4.5 - 240982020]
+## [1.4.6 - 260982020]
 
 - Add earless variants for ```m```, ```n```, ```r``` letter.
 - Add toothless variant for ```a```.
 - Splitting build files with TTF, Term without ligature, and web font package.
-- Built with font based on Iosevka Font 3.4.5 release. Check more changelog about base Iosevka Font 3.4.5 [release note](https://github.com/be5invis/Iosevka/releases/tag/v3.4.5).
+- Built with font based on Iosevka Font 3.4.6 release. Check more changelog about base Iosevka Font 3.4.6 [release note](https://github.com/be5invis/Iosevka/releases/tag/v3.4.6).
 
 ## [1.4.3 - 20082020]
 
