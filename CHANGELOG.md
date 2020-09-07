@@ -8,6 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [1.5.0 - 07092020]
+
+- Maintenance update.
+- No variant letter added, just some glyph bugfix from upstream.
+- Built with font based on Iosevka Font 3.5.0 release. Check more changelog about base Iosevka Font 3.5.0 [release note](https://github.com/be5invis/Iosevka/releases/tag/v3.5.0).
+
 ## [1.4.6 - 260982020]
 
 - Add earless variants for ```m```, ```n```, ```r``` letter.
