@@ -8,6 +8,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [1.6.0 - 19092020]
+
+- Maintenance update.
+- Add Nerd variant named "Iosevka Mayukai Nerd". This font patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). Suitable for terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more.
+- No variant letter added, just some glyph bugfix from upstream.
+- Built with font based on Iosevka Font 3.6.0 release. Check more changelog about base Iosevka Font 3.6.0 [release note](https://github.com/be5invis/Iosevka/releases/tag/v3.6.0).
+
 ## [1.5.0 - 07092020]
 
 - Maintenance update.

@@ -1,6 +1,6 @@
 # Iosevka Custom Build (Iosevka Mayukai)
 
-This repository contains .ttf files from the result of custom build original Iosevka Font. All weight variant is available, from Regular, Italic, weight 100 until weight 900, and full bold. This custom build also support all font ligature from original Iosevka Build. We're using Iosevka SS09 (Source Code Pro), Iosevka SS14 (Jetbrains Mono), and Iosevka SS04 (Menlo) variant to make this Iosevka Custom Build, named Iosevka Mayukai.
+This repository contains .ttf files from the result of custom build original Iosevka Font. All weight variant is available, from Regular, Italic, weight 100 until weight 900, and full bold. This custom build also support all font ligature from original Iosevka Build. We're using Iosevka SS09 (Source Code Pro), Iosevka SS14 (Jetbrains Mono), and Iosevka SS04 (Menlo), and Nerd Font variant to make this Iosevka Custom Build, named Iosevka Mayukai.
 
 ## Font Variants
 
