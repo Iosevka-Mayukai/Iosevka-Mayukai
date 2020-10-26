@@ -4,7 +4,7 @@ This repository contains .ttf files from the result of custom build original Ios
 
 ## Font Variants
 
-Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai Term is font variant without ligature, suitable for Terminal , CLI, Command Promp app.
+Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai Nerd is font variant that patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). Iosevka Mayukai Nerd is suitable for terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more., suitable for Terminal , CLI, Command Promp app. Iosevka Mayukai Webfont is font variant for web app usage.
 
 ## Font Sample Specimen
 
