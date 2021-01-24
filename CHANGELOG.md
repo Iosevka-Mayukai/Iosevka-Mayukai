@@ -8,25 +8,31 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
-# [2.2.0]
+# [2.5.0 - 25012020]
+
+- Bug fix and maintenance update from upstream
+- Slimming down TTF files. Now we are only include font type Regular, Italic, Bold, Bold Italic, Medium, Medium Italic, Semibold, and Semibold Italic. For better readibility, we suggest to use Medium and Semibold variant.
+- Built with font based on Iosevka Font 4.5.0 release. Check more changelog about base Iosevka Font 4.5.0 [release note](https://github.com/be5invis/Iosevka/releases/tag/v4.5.0).
+
+# [2.2.0 - 04012021]
 
 - Bug fix and maintenance update from upstream
 - Slimming down TTF files. Now we are only include font type Regular, Italic, Bold, Bold Italic, Medium, Medium Italic, Semibold, and Semibold Italic. For better readibility, we suggest to use Medium and Semibold variant.
 - Built with font based on Iosevka Font 4.2.0 release. Check more changelog about base Iosevka Font 4.2.0 [release note](https://github.com/be5invis/Iosevka/releases/tag/v4.2.0).
 
-# [2.0.3]
+# [2.0.3 - 04012021]
 
 - Bug fix and maintenance update from upstream
 - Slimming down TTF files. Now we are only include font type Regular, Italic, Bold, Bold Italic, Medium, Medium Italic, Semibold, and Semibold Italic. For better readibility, we suggest to use Medium and Semibold variant.
 - Built with font based on Iosevka Font 4.0.3 release. Check more changelog about base Iosevka Font 4.0.3 [release note](https://github.com/be5invis/Iosevka/releases/tag/v4.0.3).
 
-# [2.0.0]
+# [2.0.0 - 25122020]
 
 - Major version update from upstream.
 - Slimming down TTF files. Now we are only include font type Regular, Italic, Bold, Bold Italic, Medium, Medium Italic, Semibold, and Semibold Italic. For better readibility, we suggest to use Medium and Semibold variant.
 - Built with font based on Iosevka Font 4.0.0 release. Check more changelog about base Iosevka Font 4.0.0 [release note](https://github.com/be5invis/Iosevka/releases/tag/v4.0.0).
 
-## [1.7.1]
+## [1.7.1 - 01122020]
 
 - Maintenance update.
 - New Nerd variant named "Iosevka Mayukai Nerd". This font patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). Suitable for terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more.
