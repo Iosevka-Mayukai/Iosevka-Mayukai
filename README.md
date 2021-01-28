@@ -10,9 +10,14 @@ Iosevka Mayukai Font is font with ligature suitable for programming font in text
 
 Some screenshot for sample speciment can see below.
 
+### Regular Version
 ![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel1.png)
 
+### Italic Style
 ![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel2.png)
+
+### Serified Variant
+![Gambar Demo Serif](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-serif.png)
 
 ## Download and Installation
 
