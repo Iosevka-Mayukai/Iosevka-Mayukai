@@ -1,10 +1,10 @@
 # Iosevka Custom Build (Iosevka Mayukai)
 
-This repository contains .ttf files from the result of custom build original Iosevka Font. All weight variant is available, from Regular, Italic, weight 100 until weight 900, and full bold. This custom build also support all font ligature from original Iosevka Build. We're using Iosevka SS09 (Source Code Pro), Iosevka SS14 (Jetbrains Mono), and Iosevka SS04 (Menlo), and Nerd Font variant to make this Iosevka Custom Build, named Iosevka Mayukai.
+This repository contains .ttf files from the result of custom build original Iosevka Font. All weight variant is available, from Regular, Italic, weight 100 until weight 900, and full bold. This custom build also support all font ligature from original Iosevka Build. We're using Iosevka SS04 (Menlo), Iosevka SS07 (Monaco), Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), Hack Font Style, and Nerd Font patcher to make this Iosevka Custom Build, named Iosevka Mayukai.
 
 ## Font Variants
 
-Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai Nerd is font variant that patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). Iosevka Mayukai Nerd is suitable for terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more., suitable for Terminal , CLI, Command Promp app. Iosevka Mayukai Webfont is font variant for web app usage.
+Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai have two variants. There are Iosevka Mayukai Original and Iosevka Mayukai Serif. Iosevka Mayukai Original is variant with combination of Iosevka SS04 (Menlo), SS07 (Monaco) and SS12 (Ubuntu Mono) variant. Iosevka Mayukai Serif is variant with combination of Iosevka SS09 Source Code Pro, Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more. This variant suited for use in Terminal , CLI , or Command Prompt App.
 
 ## Font Sample Specimen
 
@@ -46,7 +46,7 @@ Iosevka Mayukai Original Font
 
 ![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code_iosevkamayukai.png)
 
-Iosevka Mayukai Serified Font
+Iosevka Mayukai Serif Font
 
 ![Gambar Demo 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code-iosevka-mayukai-serif.png)
 
