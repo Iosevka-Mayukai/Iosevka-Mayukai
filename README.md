@@ -6,7 +6,9 @@ This repository contains .ttf files from the result of custom build original Ios
 
 Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai have two variants. There are Iosevka Mayukai Original and Iosevka Mayukai Serif. Iosevka Mayukai Original is variant with combination of Iosevka SS04 (Menlo), Iosevka SS07 (Monaco) and Iosevka SS12 (Ubuntu Mono) variant.
 
-Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more. This variant suited for use in Terminal , CLI , or Command Prompt App.
+Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts).
+
+These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more.
 
 ## Font Sample Specimen
 
