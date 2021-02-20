@@ -10,6 +10,8 @@ Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code P
 
 These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more.
 
+Webfont type is available in each variant. Can be used for styling web apps font.
+
 ## Font Sample Specimen
 
 Some screenshot for sample speciment can see below.
