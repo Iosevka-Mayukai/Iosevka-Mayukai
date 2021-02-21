@@ -14,19 +14,23 @@ Webfont type is available in each variant. Can be used for styling web apps font
 
 ## Font Sample Specimen
 
-Some screenshot for sample speciment can see below.
+Here some screenshot for font speciment that can be see below.
 
-### Regular Version
+### Iosevka Mayukai Original - Regular Version
 
 ![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel1.png)
 
-### Italic Style
+### Iosevka Mayukai Original - Italic Version
 
-![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel2.png)
+![Gambar Demo 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel2.png)
 
-### Serified Variant
+### Iosevka Mayukai Serif - Regular Version
 
-![Gambar Demo Serif](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-serif.png)
+![Gambar Demo Serif 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-serif.png)
+
+### Iosevka Mayukai Serif - Italic Version
+
+![Gambar Demo Serif 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-serif-italic.png)
 
 ## Download and Installation
 
