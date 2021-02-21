@@ -52,11 +52,11 @@ Open your text editor font settings, for example in VS Code / VS Codium Text Edi
 
 Iosevka Mayukai Font when applied to VS Code text editor, using Iosevka Mayukai Semibold and Iosevka Mayukai Medium, or using weight 500 and weight 600. Theme that applied with this demo is VS Code [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc).
 
-Iosevka Mayukai Original Font
+**Iosevka Mayukai Original Font**
 
 ![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code_iosevkamayukai.png)
 
-Iosevka Mayukai Serif Font
+**Iosevka Mayukai Serif Font**
 
 ![Gambar Demo 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code-iosevka-mayukai-serif.png)
 
