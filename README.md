@@ -4,11 +4,11 @@ This repository contains .ttf files from the result of custom build original Ios
 
 ## Font Variants
 
-Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai have two variants. There are Iosevka Mayukai Original and Iosevka Mayukai Serif. Iosevka Mayukai Original is variant with combination of Iosevka SS04 (Menlo), Iosevka SS07 (Monaco) and Iosevka SS12 (Ubuntu Mono) variant.
+Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai have two variants. There are Iosevka Mayukai Original, Iosevka Mayukai Serif, and Iosevka Mayukai Codepro. Iosevka Mayukai Original is variant with combination of Iosevka SS04 (Menlo), Iosevka SS07 (Monaco) and Iosevka SS12 (Ubuntu Mono) variant.
 
-Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts).
+Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. Iosevka Mayukai Codepro is variant with combination from Iosevka SS04 (Menlo) and Iosevka SS09 (Source Code Pro).
 
-These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more.
+Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more.
 
 Webfont type is available in each variant. Can be used for styling web apps font.
 
@@ -31,6 +31,14 @@ Here some screenshot for font speciment that can be see below.
 ### Iosevka Mayukai Serif - Italic Version
 
 ![Gambar Demo Serif 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-serif-italic.png)
+
+### Iosevka Mayukai Codepro - Regular Version
+
+![Gambar Demo Codepro 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-codepro.png)
+
+### Iosevka Mayukai Codepro - Italic Version
+
+![Gambar Demo Codepro 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-codepro-italic.png)
 
 ## Download and Installation
 
