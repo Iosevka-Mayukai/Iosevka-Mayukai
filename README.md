@@ -18,11 +18,11 @@ Here some screenshot for font speciment that can be see below.
 
 ### Iosevka Mayukai Original - Regular Version
 
-![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel1.png)
+![Gambar Demo 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-original.png)
 
 ### Iosevka Mayukai Original - Italic Version
 
-![Gambar Demo 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel2.png)
+![Gambar Demo 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-original-italic.png)
 
 ### Iosevka Mayukai Serif - Regular Version
 

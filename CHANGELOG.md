@@ -13,7 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Bug fix and maintenance update from upstream repository.
 - Iosevka Mayukai now have two variants, Iosevka Mayukai Original and Iosevka Mayukai Serif. Each variant have different style in letter and number. Iosevka Mayukai Serif made from composing Ubuntu Mono, Hack, and Jetbrains Mono variant. Iosevka Mayukai Codepro is variant made from IBM Plex Mono and PT Mono variant.
 - Slimming down TTF files. Now we are only include font type Regular, Italic, Bold, Bold Italic, Medium, Medium Italic, Semibold, and Semibold Italic. For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
-- Built with font based on Iosevka Font 5.0.3 release. Check more changelog about base Iosevka Font 5.0.3 [release note](https://github.com/be5invis/Iosevka/releases/tag/v5.0.3).
+- Built with font based on Iosevka Font 5.0.4 release. Check more changelog about base Iosevka Font 5.0.4 [release note](https://github.com/be5invis/Iosevka/releases/tag/v5.0.4).
 
 # [2.5.0 - 25012020]
 
