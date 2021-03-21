@@ -8,6 +8,8 @@ Iosevka Mayukai Font is font with ligature suitable for programming font in text
 
 Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. Iosevka Mayukai Codepro is variant with combination from Iosevka SS15 (IBM Plex Mono) and Iosevka SS16 (PT Mono).
 
+Iosevka Mayukai Monolite is variant from combination of Iosevka SS16 (PT Mono) with Iosevka SS05 (Fira Mono) with complete ligature support.
+
 Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more.
 
 Webfont type is available in each variant. Can be used for styling web apps font.
@@ -40,6 +42,12 @@ Here some screenshot for font speciment that can be see below.
 
 ![Gambar Demo Codepro 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-codepro-italic.png)
 
+### Iosevka Mayukai Monolite - Regular Version
+
+![Gambar Demo Monolite](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-monolite.png)
+### Iosevka Mayukai Monolite - Italic Version
+
+![Gambar Monolite Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-monolite-italic.png)
 ## Download and Installation
 
 Quit your editor/program. Download the fonts from [Github Release Page](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases) in this repository. Unzip and open the folder **/iosevka-mayukai**.
@@ -71,6 +79,10 @@ Iosevka Mayukai Font when applied to VS Code text editor, using Iosevka Mayukai 
 **Iosevka Mayukai Codepro Font**
 
 ![Gambar Demo 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code_iosevka_mayukai_codepro.png)
+
+**Iosevka Mayukai Monolite Font**
+
+![Gambar Demo 5](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code_mayukai_monolite.png)
 
 ## Thank You
 
