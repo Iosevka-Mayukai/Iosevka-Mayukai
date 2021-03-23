@@ -60,9 +60,11 @@ Quit your editor/program. Download the fonts from [Github Release Page](https://
 
 ## Settings for Your Code Editor
 
-Open your text editor font settings, for example in VS Code / VS Codium Text Editor. Go to Font Settings, and write **"Iosevka Mayukai"** in Font Selection. Save and reload your code editor. If it doesn't work, then try write **Iosevka-Mayukai** in Font selection settings.
+Open your text editor font settings, for example in VS Code / VS Codium Text Editor. Go to Font Settings, and write **"Iosevka Mayukai"** in Font Selection. Save and reload your code editor. If it doesn't work, then try write **"Iosevka-Mayukai"** in Font selection settings.
 
 ![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel3.png)
+
+For Iosevka Mayukai Monolite, you should write **"Iosevka Mayukai Monolite"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Monolite"** if the first one is fail.
 
 ## Demo
 
