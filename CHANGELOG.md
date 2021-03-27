@@ -10,7 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [3.0.8 - 20032021]
 
 - Bug fix and maintenance update from upstream repository.
-- Add new variant named Mayukai Monolite, made from combination Iosevka SS16 (PT Mono) and Iosevka SS05 (Fira Mono).
+- Add new variant named Mayukai Monolite, made from combination Iosevka SS16 (PT Mono), Iosevka SS17 (Recursive Mono), and Iosevka SS05 (Fira Mono).
 - Slimming down TTF files. Now we are only include font type Regular, Italic, Bold, Bold Italic, Medium, Medium Italic, Semibold, and Semibold Italic. For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
 - Built with font based on Iosevka Font 5.0.8 release. Check more changelog about base Iosevka Font 5.0.8 [release note](https://github.com/be5invis/Iosevka/releases/tag/v5.0.8).
 ## [3.0.0 - 15022021]
