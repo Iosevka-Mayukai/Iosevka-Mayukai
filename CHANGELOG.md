@@ -7,6 +7,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Unreleased feature and bug fix will show in here.
+## [3.1.0 - 01042021]
+
+- Bug fix and maintenance update from upstream repository.
+- Slimming down TTF files. Now we are only include font type Regular, Italic, Bold, Bold Italic, Medium, Medium Italic, Semibold, and Semibold Italic. For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 5.0.8 release. Check more changelog about base Iosevka Font 5.1.1 [release note](https://github.com/be5invis/Iosevka/releases/tag/v5.1.1).
+
 ## [3.0.8 - 20032021]
 
 - Bug fix and maintenance update from upstream repository.
