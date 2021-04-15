@@ -8,7 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
-## [3.2.1 - 01042021]
+## [3.2.1 - 16042021]
 
 - Change some alphabet and character in Iosevka Mayukai Original and Monolite.
 - Bug fix and maintenance update from upstream repository.
