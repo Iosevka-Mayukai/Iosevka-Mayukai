@@ -60,11 +60,23 @@ Quit your editor/program. Download the fonts from [Github Release Page](https://
 
 ## Settings for Your Code Editor
 
-Open your text editor font settings, for example in VS Code / VS Codium Text Editor. Go to Font Settings, and write **"Iosevka Mayukai"** in Font Selection. Save and reload your code editor. If it doesn't work, then try write **"Iosevka-Mayukai"** in Font selection settings.
+Open your text editor font settings, for example in VS Code / VS Codium Text Editor. Go to Font Settings, and write variant name in Font Selection. Save and reload your code editor. If it doesn't work, then try write **"Iosevka-Mayukai-<variant name>"** in Font selection settings.
 
-![Gambar Demo 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel3.png)
+If you use Iosevka Mayukai Original, you should write **"Iosevka Mayukai Original"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Original"** if the first one is fail.
+
+![Gambar Setting 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-original.png)
+
+For Iosevka Mayukai Serif setting, you should write **"Iosevka Mayukai Serif"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Serif"** if the first one is fail.
+
+![Gambar Setting 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-serif.png)
+
+If you use Iosevka Mayukai Codepro, you should write **"Iosevka Mayukai Codepro"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Codepro"** if the first one is fail.
+
+![Gambar Setting 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-codepro.png)
 
 For Iosevka Mayukai Monolite, you should write **"Iosevka Mayukai Monolite"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Monolite"** if the first one is fail.
+
+![Gambar Setting 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-monolite.png)
 
 ## Demo
 
