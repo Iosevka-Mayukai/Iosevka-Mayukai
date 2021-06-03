@@ -8,6 +8,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+
+## [5.0.0 - 03062021]
+
+- Updating some ligature and character style in Mayukai Codepro and Serif to match newest version of Iosevka.
+- ***[Breaking Change]*** Every variant now have speficic name, and make it distinct from each other. So you must input variant name that you use. For example, if you use "Iosevka Mayukai Original", you should choose or input "Iosevka Mayukai Original" in text editor font settings. And this behaviour is same for other variant. Check Readme for details. 
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 7.0.3 release. Check more changelog about base Iosevka Font 7.0.3 [release note](https://github.com/be5invis/Iosevka/releases/tag/v7.0.3).
+
 ## [4.2.0 - 16052021]
 
 - ***[Breaking Change]*** Every variant now have speficic name, and make it distinct from each other. So you must input variant name that you use. For example, if you use "Iosevka Mayukai Original", you should choose or input "Iosevka Mayukai Original" in text editor font settings. And this behaviour is same for other variant. Check Readme for details. 
