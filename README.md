@@ -93,6 +93,10 @@ For Iosevka Mayukai Monolite, you should write **"Iosevka Mayukai Monolite"** in
 
 ![Gambar Setting 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-monolite.png)
 
+For Iosevka Mayukai Sonata, you should write **"Iosevka Mayukai Sonata"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Sonata"** if the first one is fail.
+
+![Gambar Setting 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-sonata.png)
+
 ## Demo
 
 Iosevka Mayukai Font when applied to VS Code text editor, using Iosevka Mayukai Semibold and Iosevka Mayukai Medium, or using weight 500 and weight 600. Theme that applied with this demo is VS Code [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc).
@@ -112,6 +116,10 @@ Iosevka Mayukai Font when applied to VS Code text editor, using Iosevka Mayukai 
 **Iosevka Mayukai Monolite Font**
 
 ![Gambar Demo 5](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code_mayukai_monolite.png)
+
+**Iosevka Mayukai Sonata Font**
+
+![Gambar Demo 6](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code-iosevka-mayukai-sonata.png)
 
 ## Thank You
 
