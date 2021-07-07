@@ -58,7 +58,10 @@ Here some screenshot for font speciment that can be see below.
 
 ### Iosevka Mayukai Sonata - Regular Version
 
+![Gambar Demo Sonata](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-sonata.png)
 ### Iosevka Mayukai Sonata - Italic Version
+
+![Gambar Sonata Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-sonata-italic.png)
 
 ## Download and Installation
 
