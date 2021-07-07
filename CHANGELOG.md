@@ -8,6 +8,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [5.3.0 - 07072021]
+
+- Release new variant named Iosevka Mayukai Sonata. Iosevka Mayukai Sonata is variant from combination of Iosevka SS18 (Input Mono) and Iosevka SS09 (Source Code Pro).
+- ***[Breaking Change]*** Every variant now have speficic name, and make it distinct from each other. So you must input variant name that you use. For example, if you use "Iosevka Mayukai Original", you should choose or input "Iosevka Mayukai Original" in text editor font settings. And this behaviour is same for other variant. Check Readme for details. 
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 7.2.2 release. Check more changelog about base Iosevka Font 7.2.6 [release note](https://github.com/be5invis/Iosevka/releases/tag/v7.2.6).
+
 ## [5.2.2 - 29062021]
 
 - Updating some ligature and character style in Mayukai Codepro and Serif to match newest version of Iosevka.
