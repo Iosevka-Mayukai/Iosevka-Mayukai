@@ -4,7 +4,9 @@ This repository contains .ttf files from the result of custom build original Ios
 
 ## Font Variants
 
-Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai have two variants. There are Iosevka Mayukai Original, Iosevka Mayukai Serif, and Iosevka Mayukai Codepro. Iosevka Mayukai Original is variant with combination of Iosevka SS04 (Menlo), Iosevka SS07 (Monaco) and Iosevka SS12 (Ubuntu Mono) variant.
+Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai have some variants. There are Iosevka Mayukai Original, Iosevka Mayukai Serif, Iosevka Mayukai Codepro, Iosevka Mayukai Monolite, and Iosevka Mayukai Sonata. 
+
+Iosevka Mayukai Original is variant with combination of Iosevka SS04 (Menlo), Iosevka SS07 (Monaco) and Iosevka SS12 (Ubuntu Mono) variant.
 
 Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. 
 
@@ -49,9 +51,15 @@ Here some screenshot for font speciment that can be see below.
 ### Iosevka Mayukai Monolite - Regular Version
 
 ![Gambar Demo Monolite](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-monolite.png)
+
 ### Iosevka Mayukai Monolite - Italic Version
 
 ![Gambar Monolite Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-monolite-italic.png)
+
+### Iosevka Mayukai Sonata - Regular Version
+
+### Iosevka Mayukai Sonata - Italic Version
+
 ## Download and Installation
 
 Quit your editor/program. Download the fonts from [Github Release Page](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases) in this repository. Unzip and open the folder **/iosevka-mayukai**.
