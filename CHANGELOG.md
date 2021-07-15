@@ -8,13 +8,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
-## [5.3.0 - 07072021]
 
+## [5.3.2 - 16072021]
+
+- Fix number "1" style to make it different from lowercase "L".
 - Release new variant named Iosevka Mayukai Sonata. Iosevka Mayukai Sonata is variant from combination of Iosevka SS18 (Input Mono) and Iosevka SS09 (Source Code Pro).
 - ***[Breaking Change]*** Every variant now have speficic name, and make it distinct from each other. So you must input variant name that you use. For example, if you use "Iosevka Mayukai Original", you should choose or input "Iosevka Mayukai Original" in text editor font settings. And this behaviour is same for other variant. Check Readme for details. 
 - Bug fix and maintenance update from upstream repository.
 - For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
-- Built with font based on Iosevka Font 7.2.6 release. Check more changelog about base Iosevka Font 7.2.6 [release note](https://github.com/be5invis/Iosevka/releases/tag/v7.2.6).
+- Built with font based on Iosevka Font 7.2.8 release. Check more changelog about base Iosevka Font 7.2.8 [release note](https://github.com/be5invis/Iosevka/releases/tag/v7.2.8).
 
 ## [5.2.2 - 29062021]
 
