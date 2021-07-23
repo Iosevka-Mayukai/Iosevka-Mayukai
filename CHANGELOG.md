@@ -8,6 +8,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [5.3.3 - 23072021]
+
+- Fix letter "r" and letter "n" in Iosevka Mayukai Codepro.
+- Fix number "1" style to make it different from lowercase "L".
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 7.3.3 release. Check more changelog about base Iosevka Font 7.3.3 [release note](https://github.com/be5invis/Iosevka/releases/tag/v7.3.3).
 
 ## [5.3.2 - 16072021]
 
