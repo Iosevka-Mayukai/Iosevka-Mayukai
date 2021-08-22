@@ -8,6 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [5.5.0 - 22082021]
+
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 10.1.0 release. Check more changelog about base Iosevka Font 10.1.0 [release note](https://github.com/be5invis/Iosevka/releases/tag/v10.1.0).
+
 ## [5.4.0 - 06082021]
 
 - Use more distinct design in curly brackets.
