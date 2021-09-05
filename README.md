@@ -77,23 +77,23 @@ Quit your editor/program. Download the fonts from [Github Release Page](https://
 
 Open your text editor font settings, for example in VS Code / VS Codium Text Editor. Go to Font Settings, and write variant name in Font Selection. Save and reload your code editor. If it doesn't work, then try write **"Iosevka-Mayukai-<variant name>"** in Font selection settings.
 
-If you use Iosevka Mayukai Original, you should write **"Iosevka Mayukai Original"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Original"** if the first one is fail.
+If you use Iosevka Mayukai Original, you should write **"Iosevka Mayukai Original"** in text editor font settings. For macOS or Windows, try write **"Iosevka-Mayukai-Original"** if the first one is fail.
 
 ![Gambar Setting 1](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-original.png)
 
-For Iosevka Mayukai Serif setting, you should write **"Iosevka Mayukai Serif"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Serif"** if the first one is fail.
+For Iosevka Mayukai Serif setting, you should write **"Iosevka Mayukai Serif"** in text editor font settings. For macOS or Windows, try write **"Iosevka-Mayukai-Serif"** if the first one is fail.
 
 ![Gambar Setting 2](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-serif.png)
 
-If you use Iosevka Mayukai Codepro, you should write **"Iosevka Mayukai Codepro"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Codepro"** if the first one is fail.
+If you use Iosevka Mayukai Codepro, you should write **"Iosevka Mayukai Codepro"** in text editor font settings. For macOS or Windows, try write **"Iosevka-Mayukai-Codepro"** if the first one is fail.
 
 ![Gambar Setting 3](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-codepro.png)
 
-For Iosevka Mayukai Monolite, you should write **"Iosevka Mayukai Monolite"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Monolite"** if the first one is fail.
+For Iosevka Mayukai Monolite, you should write **"Iosevka Mayukai Monolite"** in text editor font settings. For macOS or Windows, try write **"Iosevka-Mayukai-Monolite"** if the first one is fail.
 
 ![Gambar Setting 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-monolite.png)
 
-For Iosevka Mayukai Sonata, you should write **"Iosevka Mayukai Sonata"** in text editor font settings. For macOS, try write **"Iosevka-Mayukai-Sonata"** if the first one is fail.
+For Iosevka Mayukai Sonata, you should write **"Iosevka Mayukai Sonata"** in text editor font settings. For macOS or Windows, try write **"Iosevka-Mayukai-Sonata"** if the first one is fail.
 
 ![Gambar Setting 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-sonata.png)
 
