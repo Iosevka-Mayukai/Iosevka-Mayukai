@@ -8,6 +8,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [5.6.2 - 20102021]
+
+- Make letter "#" and "@" more taller than regular alphabet.
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 10.3.3 release. Check more changelog about base Iosevka Font 10.3.3 [release note](https://github.com/be5invis/Iosevka/releases/tag/v10.3.3).
+
 ## [5.6.1 - 10102021]
 
 - Make letter "#" and "@" more taller than regular alphabet.
