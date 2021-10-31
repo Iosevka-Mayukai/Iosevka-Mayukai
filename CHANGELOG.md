@@ -8,6 +8,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [5.6.3 - 01112021]
+
+- Fix letter "D" not showing bold style.
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 10.3.4 release. Check more changelog about base Iosevka Font 10.3.4 [release note](https://github.com/be5invis/Iosevka/releases/tag/v10.3.4).
+
 ## [5.6.2 - 20102021]
 
 - Make letter "#" and "@" more taller than regular alphabet.
