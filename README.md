@@ -99,7 +99,7 @@ For Iosevka Mayukai Sonata, you should write **"Iosevka Mayukai Sonata"** in tex
 
 ### Nerd Variant
 
-If you're using Nerd Patched Font variant, you should write **"Iosevka NF"** in text editor font settings. This will enable font with patched glyph and more ligature in your text editor. These variant using filename **"Iosevka Mayukai xxxxxxx Nerd Font Complete Windows Compatible"**, and placed inside **"nerd-patched-ttf"** instalation folder.
+If you're using Nerd Patched Font variant, you should write **"Iosevka NF"** in text editor font settings. This will enable font with patched glyph and more ligature in your text editor. These variant using filename **"Iosevka Mayukai xxxxxxx Nerd Font Complete Windows Compatible"**, and placed inside **"nerd-patched-ttf"** installation folder.
 
 ## Demo
 
