@@ -16,7 +16,7 @@ Iosevka Mayukai Monolite is variant from combination of Iosevka SS16 (PT Mono), 
 
 Iosevka Mayukai Sonata is variant from combination of Iosevka SS18 (Input Mono) and Iosevka SS09 (Source Code Pro).
 
-Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more.
+Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more. Variants with glyph use filename **"Iosevka Mayukai xxxxx Nerd Font Complete Windows Compatible"**.
 
 Webfont type is available in each variant. Can be used for styling web apps font.
 
@@ -96,6 +96,10 @@ For Iosevka Mayukai Monolite, you should write **"Iosevka Mayukai Monolite"** in
 For Iosevka Mayukai Sonata, you should write **"Iosevka Mayukai Sonata"** in text editor font settings. For macOS or Windows, try write **"Iosevka-Mayukai-Sonata"** if the first one is fail.
 
 ![Gambar Setting 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-sonata.png)
+
+### Nerd Variant
+
+If you're using Nerd Patched Font variant, you should write **Iosevka NF** in text editor font settings. This will enable font with patched glyph and more ligature in your text editor. These variant using filename **"Iosevka Mayukai xxxxxxx Nerd Font Complete Windows Compatible"**, and placed inside **"nerd-patched-ttf"** instalation folder.
 
 ## Demo
 
