@@ -16,7 +16,7 @@ Iosevka Mayukai Monolite is variant from combination of Iosevka SS16 (PT Mono), 
 
 Iosevka Mayukai Sonata is variant from combination of Iosevka SS18 (Input Mono) and Iosevka SS09 (Source Code Pro).
 
-Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more. Variants with glyph use filename **"Iosevka Mayukai xxxxx Nerd Font Complete Windows Compatible"**.
+Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). These variant are Suitable for IDE, text editor, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more. Variants with glyph use filename **"Iosevka Mayukai xxxxx Nerd Font Complete"**.
 
 Webfont type is available in each variant. Can be used for styling web apps font.
 
