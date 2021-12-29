@@ -8,12 +8,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [5.7.3 - 30122021]
+
+- Add monospace variant in Nerd Font for Terminal or command prompt usage.
+- [BREAKING] Latest bugs in Nerd font patcher make font ligature not shown in code editor, especially in VS Code and Sublime Text. If you use Nerd font in code editor, there are some chance that this font not show ligature. Work around to fix this is uninstall Nerd Font variant and **install normal version (unpatched) in "ttf" folder**.
+- Use only woff2 file in Webfont variant.
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 11.2.4 release. Check more changelog about base Iosevka Font 11.2.4 [release note](https://github.com/be5invis/Iosevka/releases/tag/v11.2.4).
+
 
 ## [5.7.2 - 28122021]
 
 - [BREAKING] Nerd Font Patch variant will remove ligature support because this Monospace font variant is for usage in Terminal or command prompt app. If you want to use Iosevka Mayukai font for text editor, don't install variant file inside "nerd-patched-ttf" folder. You should use font file inside "ttf" folder if you want use ligature support.
 - Use only woff2 file in Webfont variant.
-- Slimming down Nerd patched files. These variants are patched using compatibility mode for MacOS, Linux, and Windows. If you're using Nerd Patched Font variant, you should write **"Iosevka Nerd Font"** in text editor font settings. This will enable font with patched glyph and more ligature in your text editor. These variant using filename **"Iosevka Mayukai xxxxxxx Nerd Font Complete"**, and placed inside **"nerd-patched-ttf"** installation folder.
+- Slimming down Nerd patched files. These variants are patched using compatibility mode for MacOS, Linux, and Windows. If you're using Nerd Patched Font variant, you should write **"Iosevka Nerd Font"** or **"Iosevka Nerd Font Mono"** in text editor font settings. This will enable font with patched glyph and more ligature in your text editor. These variant using filename **"Iosevka Mayukai xxxxxxx Nerd Font Complete"**, and placed inside **"nerd-patched-ttf"** installation folder.
 - Bug fix and maintenance update from upstream repository.
 - For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
 - Built with font based on Iosevka Font 11.2.3 release. Check more changelog about base Iosevka Font 11.2.3 [release note](https://github.com/be5invis/Iosevka/releases/tag/v11.2.3).
