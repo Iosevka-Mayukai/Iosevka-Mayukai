@@ -13,6 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Add monospace variant in Nerd Font for Terminal or command prompt usage.
 - [BREAKING] Latest bugs in Nerd font patcher make font ligature not shown in code editor, especially in VS Code and Sublime Text. If you use Nerd font in code editor, there are some chance that this font not show ligature. Work around to fix this is uninstall Nerd Font variant and **install normal version (unpatched) in "ttf" folder**.
 - Use only woff2 file in Webfont variant.
+- Use Iosevka SS17 base for Iosevka Monolite style. 
 - Bug fix and maintenance update from upstream repository.
 - For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
 - Built with font based on Iosevka Font 11.2.4 release. Check more changelog about base Iosevka Font 11.2.4 [release note](https://github.com/be5invis/Iosevka/releases/tag/v11.2.4).
