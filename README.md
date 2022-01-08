@@ -14,9 +14,11 @@ Iosevka Mayukai Codepro is variant with combination from Iosevka SS15 (IBM Plex 
 
 Iosevka Mayukai Monolite is variant from combination of Iosevka SS16 (PT Mono), Iosevka SS17 (Recursive Mono), and Iosevka SS05 (Fira Mono) with complete ligature support.
 
-Iosevka Mayukai Sonata is variant from combination of Iosevka SS18 (Input Mono) and Iosevka SS09 (Source Code Pro).
+Iosevka Mayukai Sonata is variant from combination of Iosevka SS18 (Input Mono) and Iosevka SS03 (Consolas).
 
-Each variant have ligature support, and also patched with Glyph from [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts). These variant are Suitable for Terminal or command prompt font, Vim, Emacs, terminal theme with powerline and glyph icons, such as OhMyZSH Powerlevel10K, Starship, Spaceship, and many more. Variants with glyph use filename **"Iosevka Mayukai xxxxx Nerd Font Complete"**. **Nerd Font Patch variant will remove ligature support because this Monospace font variant is for usage in Terminal or command prompt app**. If you want to use Iosevka Mayukai font for text editor, don't install variant file inside "nerd-patched-ttf" folder. You should use font file inside "ttf" folder if you want use ligature support.
+Each variant have separate bundle. There are bundle with ligation and without ligation. For code editor or IDE, we use new bundle named **"iosevka-mayukai-xxx-editor-xxxx.zip"**. This bundle include fonts with built-in ligature and glyph ligation from Iosevka.
+
+For terminal app or command prompt, use fonts inside zip bundle named **"iosevka-mayukai-xxx-terminal-xxxx.zip"**. This bundle include fonts with monospace configuration and ***without ligation**. Also available Nerd Patched Fonts with complete Glyph and Powerline variant inside this bundle on **"nerd-patched-ttf"** folder. This variant suitable for Terminal app usage and command prompt shell like Spaceship, Starship, and Powerlevel10K. This fonts patched with [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts).
 
 Webfont type is available in each variant. Can be used for styling web apps font.
 
@@ -99,7 +101,7 @@ For Iosevka Mayukai Sonata, you should write **"Iosevka Mayukai Sonata"** in tex
 
 ### Nerd Variant
 
-If you're using Nerd Patched Font variant, you should select or use **"Iosevka Nerd Font"** or **"Iosevka Nerd Font Mono"** in Terminal font settings. This will enable font with patched glyph and more icon in your Terminal shell or command prompt app. These variant using filename **"Iosevka Mayukai xxxxxxx Nerd Font Complete"**, and placed inside **"nerd-patched-ttf"** installation folder.
+If you're using Nerd Patched Font variant, you should select or use **"Iosevka Nerd Font"** in Terminal font settings. This will enable font with patched glyph and more icon in your Terminal shell or command prompt app. These variant using filename **"Iosevka Mayukai xxxxxxx Nerd Font Complete"**, and placed inside **"nerd-patched-ttf"** installation folder. Remember that Nerd font variant is without ligation, and only use Glyph and icon patched by Nerd Font Tools.
 
 ## Demo
 
