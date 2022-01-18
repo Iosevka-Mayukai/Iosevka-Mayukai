@@ -14,8 +14,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - There are some bugs from Nerd Font Patcher that make ligation didn't work, for workaround, we separate font bundle for editor with ligation, and font bundle for terminal usage without ligation but with Nerd glyph.
 - Separate bundle for code editor and terminal usage. For code editor, we use new bundle named **"iosevka-mayukai-xxx-editor-xxxx.zip"**. This bundle include fonts with built-in ligature and glyph ligation from Iosevka.
 - For terminal app or command prompt, use fonts inside zip bundle named **"iosevka-mayukai-xxx-terminal-xxxx.zip"**. This bundle include fonts with monospace configuration and **without ligation**. Also available Nerd Patched with complete Glyph variant inside this bundle on **"nerd-patched-ttf"** folder. This variant suitable for Terminal app usage and command prompt shell like Spaceship, Starship, and Powerlevel10K.
-- Use Iosevka SS17 base for Iosevka Monolite style. 
-- Use Iosevka SS03 base for Iosevka Sonata style.
 - We also add fallback font with Nerd patched variant, named **"iosevka-consolas-ss03.zip"** and **"iosevka-recursive-ss17.zip"**. You can use fonts inside those bundles if ligation and glyph don't work well with Iosevka Mayukai Editor variant.
 - Use only woff2 file in Webfont variant. 
 - For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
