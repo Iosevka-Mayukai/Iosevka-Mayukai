@@ -8,6 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [5.8.2 - 19022022]
+
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 13.3.1 release. Check more changelog about base Iosevka Font 13.3.1 [release note](https://github.com/be5invis/Iosevka/releases/tag/v13.3.1).
+
 ## [5.8.1 - 18012022]
 
 - Bug fix and maintenance update from upstream repository.
