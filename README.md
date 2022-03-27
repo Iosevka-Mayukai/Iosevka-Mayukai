@@ -127,6 +127,10 @@ Iosevka Mayukai Font when applied to VS Code text editor, using Iosevka Mayukai 
 
 ![Gambar Demo 6](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code-iosevka-mayukai-sonata.png)
 
+## Build Plans Script
+
+Private build plans script for these font available in different repository. You can visit [Iosevka Mayukai Build Plans Repository](https://github.com/Iosevka-Mayukai/HowToBuild) if you want to build or customize it by yourself. And then you can check [Build Iosevka Custom Font Documentation](https://github.com/be5invis/Iosevka#building-from-source) for building it step by step.
+
 ## Thank You
 
 Thank you for Belleve Invis, their developers, and contributors that making Iosevka Font happens. Don't forget check and download original Iosevka Font from here [https://github.com/be5invis/Iosevka](https://github.com/be5invis/Iosevka). You can check [Iosevka Demo Page](https://typeof.net/Iosevka/) for details.
