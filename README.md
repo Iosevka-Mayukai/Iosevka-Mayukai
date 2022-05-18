@@ -10,7 +10,7 @@ Iosevka Mayukai Original is variant with combination of Iosevka SS04 (Menlo), Io
 
 Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. 
 
-Iosevka Mayukai Codepro is variant with combination from Iosevka SS15 (IBM Plex Mono) and Iosevka SS16 (PT Mono).
+Iosevka Mayukai Codepro is variant with combination from Iosevka SS15 (IBM Plex Mono) and Iosevka SS18 (Input Mono).
 
 Iosevka Mayukai Monolite is variant from combination of Iosevka SS16 (PT Mono), Iosevka SS17 (Recursive Mono), and Iosevka SS05 (Fira Mono) with complete ligature support.
 
