@@ -16,6 +16,8 @@ Iosevka Mayukai Monolite is variant from combination of Iosevka SS16 (PT Mono), 
 
 Iosevka Mayukai Sonata is variant from combination of Iosevka SS18 (Input Mono) and Iosevka SS03 (Consolas).
 
+Iosevka Mayukai Firastorm is variant from combination of Iosevka SS17 (Recursive Mono) and Iosevka SS05 (Fira Mono).
+
 Each variant have separate bundle. There are bundle with ligation and without ligation. For code editor or IDE, we use new bundle named **"iosevka-mayukai-xxx-editor-xxxx.zip"**. This bundle include fonts with built-in ligature and glyph ligation from Iosevka.
 
 For terminal app or command prompt, use fonts inside zip bundle named **"iosevka-mayukai-xxx-terminal-xxxx.zip"**. This bundle include fonts with monospace configuration and **without ligation**. Also available Nerd Patched Fonts with complete Glyph and Powerline variant inside this bundle on **"nerd-patched-ttf"** folder. This variant suitable for Terminal app usage and command prompt shell like Spaceship, Starship, and Powerlevel10K. This fonts patched with [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts).
@@ -65,6 +67,14 @@ Here some screenshot for font speciment that can be see below.
 
 ![Gambar Sonata Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-sonata-italic.png)
 
+
+### Iosevka Mayukai Firastorm - Regular Version
+
+![Gambar Demo Firastorm](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-firastorm.png)
+### Iosevka Mayukai Firastorm - Italic Version
+
+![Gambar Firastorm Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-sonata-italic.png)
+
 ## Download and Installation
 
 Quit your editor/program. Download the fonts from [Github Release Page](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases) in this repository. Unzip and open the folder **/iosevka-mayukai**.
@@ -98,6 +108,11 @@ For Iosevka Mayukai Monolite, you should write **"Iosevka Mayukai Monolite"** in
 For Iosevka Mayukai Sonata, you should write **"Iosevka Mayukai Sonata"** in text editor font settings. For macOS or Windows, try write **"Iosevka-Mayukai-Sonata"** if the first one is fail.
 
 ![Gambar Setting 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-sonata.png)
+
+
+For Iosevka Mayukai Sonata, you should write **"Iosevka Mayukai Firastorm"** in text editor font settings. For macOS or Windows, try write **"Iosevka-Mayukai-Firastorm"** if the first one is fail.
+
+![Gambar Setting 4](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/setting-iosevka-mayukai-firastorm.png)
 
 ### Nerd Variant
 
