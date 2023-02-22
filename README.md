@@ -73,7 +73,7 @@ Here some screenshot for font speciment that can be see below.
 ![Gambar Demo Firastorm](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-firastorm.png)
 ### Iosevka Mayukai Firastorm - Italic Version
 
-![Gambar Firastorm Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-sonata-italic.png)
+![Gambar Firastorm Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-firastorm-italic.png)
 
 ## Download and Installation
 
