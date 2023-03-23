@@ -4,11 +4,11 @@ This repository contains .ttf files from the result of custom build original Ios
 
 ## Font Variants
 
-Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai have some variants. There are Iosevka Mayukai Original, Iosevka Mayukai Serif, Iosevka Mayukai Codepro, Iosevka Mayukai Monolite, and Iosevka Mayukai Sonata. 
+Iosevka Mayukai Font is font with ligature suitable for programming font in text editor and IDE. Iosevka Mayukai have some variants. There are Iosevka Mayukai Original, Iosevka Mayukai Serif, Iosevka Mayukai Codepro, Iosevka Mayukai Monolite, and Iosevka Mayukai Sonata.
 
 Iosevka Mayukai Original is variant with combination of Iosevka SS04 (Menlo), Iosevka SS07 (Monaco) and Iosevka SS12 (Ubuntu Mono) variant.
 
-Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style. 
+Iosevka Mayukai Serif is variant with combination of Iosevka SS09 (Source Code Pro), Iosevka SS12 (Ubuntu Mono), Iosevka SS14 (Jetbrains Mono), and Hack Font Style.
 
 Iosevka Mayukai Codepro is variant with combination from Iosevka SS15 (IBM Plex Mono) and Iosevka SS18 (Input Mono).
 
@@ -73,7 +73,7 @@ Here some screenshot for font speciment that can be see below.
 ![Gambar Demo Firastorm](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-firastorm.png)
 ### Iosevka Mayukai Firastorm - Italic Version
 
-![Gambar Firastorm Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-sonata-italic.png)
+![Gambar Firastorm Italic](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/sampel-firastorm-italic.png)
 
 ## Download and Installation
 
@@ -141,6 +141,10 @@ Iosevka Mayukai Font when applied to VS Code text editor, using Iosevka Mayukai 
 **Iosevka Mayukai Sonata Font**
 
 ![Gambar Demo 6](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code-iosevka-mayukai-sonata.png)
+
+**Iosevka Mayukai Firastorm Font**
+
+![Gambar Demo 7](https://raw.githubusercontent.com/Iosevka-Mayukai/Iosevka-Mayukai/master/code-iosevka-firastorm.png)
 
 ## Build Plans Script
 
