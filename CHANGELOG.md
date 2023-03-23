@@ -9,6 +9,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Unreleased feature and bug fix will show in here.
 
 
+## [6.1.1 - 23022023]
+
+- Add new variant called Iosevka Mayukai Firastorm, that based on Iosevka Fira Mono Style SS05.
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 21.1.1 release. Check more changelog about base Iosevka Font 21.1.1 [release note](https://github.com/be5invis/Iosevka/releases/tag/v21.1.1).
+
+
 ## [6.1.0 - 22022023]
 
 - Add new variant called Iosevka Mayukai Firastorm, that based on Iosevka Fira Mono Style SS05.
