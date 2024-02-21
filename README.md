@@ -18,9 +18,9 @@ Iosevka Mayukai Sonata is variant from combination of Iosevka SS18 (Input Mono) 
 
 Iosevka Mayukai Firastorm is variant from combination of Iosevka SS17 (Recursive Mono) and Iosevka SS05 (Fira Mono).
 
-Each variant have separate bundle. There are bundle with ligation and without ligation. For code editor or IDE, we use new bundle named **"iosevka-mayukai-xxx-editor-xxxx.zip"**. This bundle include fonts with built-in ligature and glyph ligation from Iosevka.
+Each variant have separate bundle. There are bundle with ligation and without ligation. For code editor or IDE, we use new bundle named **"IosevkaMayukaiXXXEditor-xxxx.zip"**. This bundle include fonts with built-in ligature and glyph ligation from Iosevka.
 
-For terminal app or command prompt, use fonts inside zip bundle named **"iosevka-mayukai-xxx-terminal-xxxx.zip"**. This bundle include fonts with monospace configuration and **without ligation**. Also available Nerd Patched Fonts with complete Glyph and Powerline variant inside this bundle on **"nerd-patched-ttf"** folder. This variant suitable for Terminal app usage and command prompt shell like Spaceship, Starship, and Powerlevel10K. This fonts patched with [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts).
+For terminal app or command prompt, use fonts inside zip bundle named **"IosevkaMayukaiXXXTerminal-xxxx.zip"**. This bundle include fonts with monospace configuration and **without ligation**. Also available Nerd Patched Fonts with complete Glyph and Powerline variant inside this bundle on **"nerd-patched-ttf"** folder. This variant suitable for Terminal app usage and command prompt shell like Spaceship, Starship, and Powerlevel10K. This fonts patched with [Nerd Font Tools by Ryanoasis](https://github.com/ryanoasis/nerd-fonts).
 
 Webfont type is available in each variant. Can be used for styling web apps font.
 
@@ -77,7 +77,7 @@ Here some screenshot for font speciment that can be see below.
 
 ## Download and Installation
 
-Quit your editor/program. Download the fonts from [Github Release Page](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases) in this repository. Unzip and open the folder **/iosevka-mayukai**.
+Quit your editor/program. Download the fonts from [Github Release Page](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases) in this repository. Unzip and open the folder **/IosevkaMayukaiXXX-xxxx**.
 
 - **Instruction for Linux** : Copy the TTF files to your fonts directory, usually in your Home directory `~/.local/share/fonts/` . And then run Run `sudo fc-cache -f -v`. For refreshing Font Cache in your sistem.
 - **[Instructions for macOS](http://support.apple.com/kb/HT2509)**

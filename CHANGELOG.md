@@ -8,6 +8,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Unreleased feature and bug fix will show in here.
 
+## [6.2.0 - 18022024]
+
+- [BREAKING CHANGE] There are some breaking change in font file name from upstream repository, from snake case to camelCase style name. For example "iosevka-mayukai-original-semibold-italic" become "IosevkaMayukaiOriginal-SemiBoldItalic". If you want to use this new version, delete your installed old fonts and install the new one. 
+- Bug fix and maintenance update from upstream repository.
+- For better readibility, we suggest to use Medium (weight 500) and Semibold (weight 600) variant.
+- Built with font based on Iosevka Font 28.1.0 release. Check more changelog about base Iosevka Font 28.1.0 [release note](https://github.com/be5invis/Iosevka/releases/tag/v28.1.0).
+
+
 ## [6.1.5 - 07102023]
 
 - Bug fix and maintenance update from upstream repository.
